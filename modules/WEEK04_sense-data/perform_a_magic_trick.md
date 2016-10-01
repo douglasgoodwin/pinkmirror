@@ -12,22 +12,24 @@ It needs to be easy! I selected one from TheDanocracy's "7 MORE Simple Magic Tri
 
 1. Disappearing Finger
 
+![finger pull](imgs/fingerpull.gif)
+
 [video documentation](https://youtu.be/esVZxjLrwH0?t=41s)
 
 There are several ways to do this trick. Watch the video for one approach!
 
 2. Rising Ring
 
+![the rising ring](imgs/ringrise.gif)
+
 [video documentation](https://youtu.be/V3NljG-mpBg?t=49s)
 
 To perform the trick, pull the band taut and rotate it at a slight incline, making sure that the ring is resting on the lower part of the band. Pull the band taut and slowly release the extra band that’s in your left hand. The rubberband will creep out and carry the ring with it, making it look as if the ring is rising. In reality, it’s the band that’s slowly moving.
 
-## Step 2: Practice!
+## Step 2: Practice
 
-## Step 3: Perform
+Practice the trick for your partner. Watch critically then discuss how the trick might be improved. 
 
-Perform the trick for your partner. Watch critically then discuss how the trick might be improved. 
-
-## Step 4: Record
+## Step 3: Perform, Record!
 
 Use your camera/phone to take pictures of the trick. Email the pics to dgoodwin@calarts.edu.
