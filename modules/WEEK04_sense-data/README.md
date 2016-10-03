@@ -1,3 +1,11 @@
+# pink mirror 10/05
+
+1. debate: Berkeley vs. Locke
+2. lecture on Perception and Mind (In)Dependence
+3. Teller video
+2. lab: magic tricks (might push to next week)
+
+
 # Lecture | Perception and Mind (In)Dependence
 
 > notes cribbed from Craig French, 10/13/14
