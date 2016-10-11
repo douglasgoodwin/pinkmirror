@@ -1,9 +1,8 @@
-# pink mirror 10/05
+# pink mirror 10/12
 
-1. debate: Berkeley vs. Locke
-2. lecture on Perception and Mind (In)Dependence
-3. Teller video
-2. lab: magic tricks (we might push the lab to next week)
+1. lecture on Perception and Mind (In)Dependence
+2. Teller video (again)
+3. lab: magic tricks
 
 
 # Lecture | Perception and Mind (In)Dependence
