@@ -6,11 +6,28 @@ Edward Tufte, from Visual Explanations, http://www.nyu.edu/classes/bkg/methods/T
 
 The goal of this lab is to learn a simple magic trick and practice it in front of your partner. Perform the tricks for one another and help your partner strengthen the illusion. 
 
-##Step 1: choose a trick
+Recall Teller's categories:
+
+Using explanations from How to Interpret Direct Perception to talk about Teller's trick "Looks Simple"
+
+palm, ditch, steal, simulate, load, misdirect, and switch.
+
+| action			| object				| percept			|
+|----				|----					|----				|
+| palm  			| cigarette				| occlusion			|
+| ditch 			| cigarette (in ear)	| occlusion			|
+| steal 			| pencil stub			| --				|
+| simulate 			| pull cig out of pack	| identification	|
+| load	 			| real cigarette		| --				|
+| misdirect			| with flashlight		| logical account	|
+| switch 			| pencil for cigarette	| expectation		|
+
+
+## Step 1: choose a trick
 
 It needs to be easy! I selected one from TheDanocracy's "7 MORE Simple Magic Tricks With Household Items" on youtube and another from Easy Magic Tricks for Kids on About.com. 
 
-1. Disappearing Finger
+1. **Disappearing Finger**
 
 ![finger pull](imgs/fingerpull.gif)
 
@@ -18,7 +35,7 @@ It needs to be easy! I selected one from TheDanocracy's "7 MORE Simple Magic Tri
 
 There are several ways to do this trick. Watch the video for one approach!
 
-2. Rising Ring
+2. **Rising Ring**
 
 ![the rising ring](imgs/ringrise.gif)
 
